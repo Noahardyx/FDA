@@ -1,3 +1,3 @@
 # FinancialDataAnalysis
 
-Lecture Summary
+KHU Lecture Summary
