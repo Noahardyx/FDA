@@ -1,1 +1,3 @@
 # FinancialDataAnalysis
+
+Lecture Summary
