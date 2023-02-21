@@ -2,4 +2,4 @@
 
 ## KHU Lecture Preview
 
-### Lecture 1: Summary of Basic Knowledge
+### Lecture 1:&nbsp; Summary of Basic Knowledge
