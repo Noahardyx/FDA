@@ -18,4 +18,4 @@
 ### Single Factor Models
  \- 가장 널리 알려진 Single Factor Model은 CAPM(Capital Asset Pricing Model)이다.
  
-$E(R_i) - R_f = \beta_i(E(R_M) - R_f)$
+## $E(R_i) - R_f = \beta_i(E(R_M) - R_f)$
