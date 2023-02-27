@@ -19,3 +19,8 @@
  \- 가장 널리 알려진 Single Factor Model은 CAPM(Capital Asset Pricing Model)이다.
  
 ## $E(R_i) - R_f = \beta_i(E(R_M) - R_f)$
+
+
+### CAPM이 중요한 이유
+ \- CAPM에서 어떤 주식의 초과수익률의 기댓값은 베타로 표현된다.
+ \- 포트폴리오에서 리스크는 분산 혹은 표준편차로 표현이 되는데, 개별주식의 수익률 같은 경우에는 베타로 표현이 된다.
